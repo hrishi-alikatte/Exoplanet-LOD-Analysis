@@ -4,7 +4,8 @@ Overview
 
 This repository contains the final project for our Big Data Linked Open Data (LOD) Exoplanets analysis. The project explores the use of Linked Open Data (LOD) techniques to extract, integrate, and analyze exoplanet datasets.
 
-Repository Structure
+Repository Structure:
+
 📂 bigdata-lod-exoplanets/
 ├── 📄 exoplanets_analysis.ipynb  # Jupyter Notebook with data processing and analysis
 ├── 📄 ex.rdf                     # RDF file representing linked data for exoplanets
